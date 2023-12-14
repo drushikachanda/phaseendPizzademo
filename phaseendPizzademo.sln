@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phaseendPizzademo", "phaseendPizzademo\phaseendPizzademo.csproj", "{6E80DF06-D70B-4649-9B5F-B40EEB4D165C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{7E9ABF9D-8CF0-4644-9CED-20B2113DEEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E80DF06-D70B-4649-9B5F-B40EEB4D165C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E80DF06-D70B-4649-9B5F-B40EEB4D165C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E80DF06-D70B-4649-9B5F-B40EEB4D165C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E80DF06-D70B-4649-9B5F-B40EEB4D165C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9ABF9D-8CF0-4644-9CED-20B2113DEEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9ABF9D-8CF0-4644-9CED-20B2113DEEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9ABF9D-8CF0-4644-9CED-20B2113DEEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9ABF9D-8CF0-4644-9CED-20B2113DEEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE53341-2E61-4DC7-A12E-D567FB55AFB3}
+	EndGlobalSection
+EndGlobal
